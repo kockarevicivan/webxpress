@@ -1,0 +1,24 @@
+{
+  "name": "webxpress",
+  "version": "1.0.0",
+  "description": "Useful wrapper for ExpressJS framework.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kockarevicivan/webxpress.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kockarevicivan/webxpress/issues"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "keywords": ["webxpress", "express", "wrapper", "expressjs", "simple"],
+  "author": "Ivan Kockarevic",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.2"
+  }
+}
