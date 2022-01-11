@@ -1,7 +1,7 @@
 {
   "name": "webxpress",
-  "version": "1.0.1",
-  "description": "Useful wrapper for ExpressJS framework.",
+  "version": "1.0.2",
+  "description": "A useful wrapper for ExpressJS framework!",
   "repository": {
     "type": "git",
     "url": "https://github.com/kockarevicivan/webxpress.git"
