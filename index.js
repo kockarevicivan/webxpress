@@ -65,7 +65,7 @@ class Server {
     }
 
     exitHandler = () => {
-        this.onEnd();
+        this.onClose();
 
         process.exit();
     }

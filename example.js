@@ -1,4 +1,4 @@
-const { app, get, log } = require('./server');
+const { app, get, log } = require('./index');
 const port = 3000;
 
 get('/', (req, res) => {
